@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Change colour of Scroll bar</title>
+  <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h2>The negative of the image is shown below</h2>
+<img src="img2.jpg" alt="image">
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<head>
+    <title>CSS invert() Function</title>
+
+    <style>
+        h1 {
+            color:#39ff14;
+        }
+        body {
+            text-align:center;
+        }
+        .invert_effect {
+            filter: invert(100%);
+        }
+    </style>
+</head>
+
+<body>
+    <h1>GeeksforGeeks</h1>
+
+    <h2>CSS invert() function</h2>
+
+    <img class="invert_effect" src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
+        alt="GeeksforGeeks logo">
+</body>
+
+</html>
+
+<style>
+p {
+  background-image: url('img_girl.jpg');
+
+
+.header {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+</style>
